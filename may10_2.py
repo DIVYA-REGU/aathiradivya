@@ -1,0 +1,5 @@
+a=int(input("enter the value for a: "))
+b=float(a)
+c=str(a)
+print("float",b)
+print("string",c)
